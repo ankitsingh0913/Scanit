@@ -1,0 +1,3 @@
+C:/Users/Lenovo/AndroidStudioProjects/scanit/android/openCV/.cxx/Debug/1a2ix6m1/armeabi-v7a/CMakeFiles/opencv_jni_shared.dir
+C:/Users/Lenovo/AndroidStudioProjects/scanit/android/openCV/.cxx/Debug/1a2ix6m1/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/AndroidStudioProjects/scanit/android/openCV/.cxx/Debug/1a2ix6m1/armeabi-v7a/CMakeFiles/rebuild_cache.dir
